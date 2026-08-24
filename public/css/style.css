@@ -1,0 +1,12 @@
+body {
+    background: #f5f7fa;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.btn {
+    border-radius: 8px;
+}
